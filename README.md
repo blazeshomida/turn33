@@ -8,18 +8,18 @@ This template is intentionally minimal. It includes app infrastructure, routing,
 
 When using this template for a real project:
 
-- [ ] Update the root `package.json` name.
-- [ ] Update `src/site.config.ts`.
+- [x] Update the root `package.json` name.
+- [x] Update `src/site.config.ts`.
 - [ ] Add or replace `public/og-image.png`.
 - [ ] Replace the home route placeholder.
 - [ ] Style or replace root error and not-found fallbacks.
-- [ ] Choose a deployment target and Nitro preset if needed.
-- [ ] Update GitHub workflow names or paths if the project layout changes.
-- [ ] Set up GitHub branch protection rules for `main` and require the Ready workflow before merging.
-- [ ] Update issue templates if the project needs different planning prompts.
+- [x] Choose a deployment target and Nitro preset if needed.
+- [x] Update GitHub workflow names or paths if the project layout changes.
+- [x] Set up GitHub branch protection rules for `main` and require the Ready workflow before merging.
+- [x] Update issue templates if the project needs different planning prompts.
 - [ ] Update this README for the real project.
-- [ ] Run `vpr fmt`.
-- [ ] Run `vpr ready`.
+- [x] Run `vpr fmt`.
+- [x] Run `vpr ready`.
 
 ## Stack
 
